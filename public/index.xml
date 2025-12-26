@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog Lập Trình</title>
+    <link>https://baoheo-12345.github.io/</link>
+    <description>Recent content on Blog Lập Trình</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://baoheo-12345.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java là gì? Vì sao Java phổ biến</title>
+      <link>https://baoheo-12345.github.io/posts/java-la-gi/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/java-la-gi/</guid>
+      <description>&lt;h2 id=&#34;-java-là-gì&#34;&gt;📌 Java là gì?&lt;/h2&gt;
+&lt;p&gt;Java là ngôn ngữ lập trình hướng đối tượng, được sử dụng rộng rãi trong các hệ thống lớn như ngân hàng, doanh nghiệp và ứng dụng Android.&lt;/p&gt;
+&lt;h2 id=&#34;-đặc-điểm-nổi-bật&#34;&gt;⚙️ Đặc điểm nổi bật&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Đa nền tảng (Write Once, Run Anywhere)&lt;/li&gt;
+&lt;li&gt;Cú pháp rõ ràng&lt;/li&gt;
+&lt;li&gt;Cộng đồng lớn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-ví-dụ-hello-world&#34;&gt;🧪 Ví dụ Hello World&lt;/h2&gt;
+&lt;p&gt;public class HelloJava {
+public static void main(String[] args) {
+System.out.println(&amp;ldquo;Hello Java&amp;rdquo;);
+}
+}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Profile</title>
+      <link>https://baoheo-12345.github.io/about/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;-giới-thiệu&#34;&gt;👋 Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Xin chào! Mình là sinh viên Công nghệ Thông tin, yêu thích lập trình và công nghệ.&lt;/p&gt;
+&lt;h2 id=&#34;-mục-tiêu&#34;&gt;🎯 Mục tiêu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nâng cao kỹ năng Java &amp;amp; JavaScript&lt;/li&gt;
+&lt;li&gt;Phát triển ứng dụng web&lt;/li&gt;
+&lt;li&gt;Hoàn thành tốt các đồ án học tập&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-kỹ-năng&#34;&gt;💻 Kỹ năng&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java cơ bản&lt;/li&gt;
+&lt;li&gt;JavaScript cơ bản&lt;/li&gt;
+&lt;li&gt;HTML, CSS&lt;/li&gt;
+&lt;li&gt;Git &amp;amp; GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-liên-hệ&#34;&gt;📬 Liên hệ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/baoheo-12345&#34;&gt;https://github.com/baoheo-12345&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
