@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on Blog Lập Trình</title>
+    <link>https://baoheo-12345.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on Blog Lập Trình</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://baoheo-12345.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOM là gì? Ví dụ thao tác DOM</title>
+      <link>https://baoheo-12345.github.io/posts/dom-la-gi/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/dom-la-gi/</guid>
+      <description>&lt;h2 id=&#34;dom-là-gì&#34;&gt;DOM là gì?&lt;/h2&gt;
+&lt;p&gt;DOM (Document Object Model) là mô hình biểu diễn HTML dưới dạng đối tượng.&lt;/p&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;p&gt;document.getElementById(&amp;ldquo;title&amp;rdquo;).innerText = &amp;ldquo;Xin chào&amp;rdquo;;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Function và Arrow Function trong JavaScript</title>
+      <link>https://baoheo-12345.github.io/posts/function-va-arrow-function/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/function-va-arrow-function/</guid>
+      <description>&lt;h2 id=&#34;function-truyền-thống&#34;&gt;Function truyền thống&lt;/h2&gt;
+&lt;p&gt;function sum(a, b) {
+return a + b;
+}&lt;/p&gt;
+&lt;h2 id=&#34;arrow-function&#34;&gt;Arrow Function&lt;/h2&gt;
+&lt;p&gt;const sum = (a, b) =&amp;gt; a + b;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript là gì? Chạy ở đâu?</title>
+      <link>https://baoheo-12345.github.io/posts/javascript-la-gi/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/javascript-la-gi/</guid>
+      <description>&lt;h2 id=&#34;javascript-là-gì&#34;&gt;JavaScript là gì?&lt;/h2&gt;
+&lt;p&gt;JavaScript là ngôn ngữ lập trình cho web.&lt;/p&gt;
+&lt;h2 id=&#34;chạy-ở-đâu&#34;&gt;Chạy ở đâu?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Trình duyệt&lt;/li&gt;
+&lt;li&gt;Server (Node.js)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello JavaScript&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>var – let – const trong JavaScript</title>
+      <link>https://baoheo-12345.github.io/posts/let-var-const/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/let-var-const/</guid>
+      <description>&lt;h2 id=&#34;var&#34;&gt;var&lt;/h2&gt;
+&lt;p&gt;Phạm vi function&lt;/p&gt;
+&lt;h2 id=&#34;let&#34;&gt;let&lt;/h2&gt;
+&lt;p&gt;Phạm vi block&lt;/p&gt;
+&lt;h2 id=&#34;const&#34;&gt;const&lt;/h2&gt;
+&lt;p&gt;Biến không đổi&lt;/p&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;p&gt;let x = 10;
+const y = 20;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

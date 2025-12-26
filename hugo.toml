@@ -1,0 +1,47 @@
+baseURL = "https://baoheo-12345.github.io/"
+languageCode = "vi-vn"
+title = "Blog Lập Trình"
+theme = "PaperMod"
+
+
+
+[pagination]
+  pagerSize = 10
+
+
+[params]
+  env = "production"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+
+  homeInfoParams.Title = "👋 Chào mừng đến với Blog Lập Trình"
+  homeInfoParams.Content = """
+  Đây là blog chia sẻ kiến thức **Java & JavaScript**  
+  Phù hợp cho sinh viên và người mới bắt đầu học lập trình.
+  """
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/baoheo-12345"
+
+[menu]
+
+  [[menu.main]]
+    name = "🏠 Trang chủ"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "📝 Blog"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "👤 Profile"
+    url = "/about/"
+    weight = 3

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog Lập Trình</title>
+    <link>https://baoheo-12345.github.io/</link>
+    <description>Recent content on Blog Lập Trình</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 26 Dec 2025 20:19:08 +0700</lastBuildDate>
+    <atom:link href="https://baoheo-12345.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Js La Gi</title>
+      <link>https://baoheo-12345.github.io/posts/js-la-gi/</link>
+      <pubDate>Fri, 26 Dec 2025 20:19:08 +0700</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/js-la-gi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Class, Object và Constructor trong Java</title>
+      <link>https://baoheo-12345.github.io/posts/class-object-constructor/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/class-object-constructor/</guid>
+      <description>&lt;h2 id=&#34;class-là-gì&#34;&gt;Class là gì?&lt;/h2&gt;
+&lt;p&gt;Class là bản thiết kế cho đối tượng.&lt;/p&gt;
+&lt;h2 id=&#34;object-là-gì&#34;&gt;Object là gì?&lt;/h2&gt;
+&lt;p&gt;Object là thể hiện cụ thể của class.&lt;/p&gt;
+&lt;h2 id=&#34;constructor-là-gì&#34;&gt;Constructor là gì?&lt;/h2&gt;
+&lt;p&gt;Constructor dùng để khởi tạo object.&lt;/p&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Student&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String name;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Student(String name) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;this&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; name;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Main&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        Student s &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; Student(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Bao&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(s.&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>DOM là gì? Ví dụ thao tác DOM</title>
+      <link>https://baoheo-12345.github.io/posts/dom-la-gi/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/dom-la-gi/</guid>
+      <description>&lt;h2 id=&#34;dom-là-gì&#34;&gt;DOM là gì?&lt;/h2&gt;
+&lt;p&gt;DOM (Document Object Model) là mô hình biểu diễn HTML dưới dạng đối tượng.&lt;/p&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;p&gt;document.getElementById(&amp;ldquo;title&amp;rdquo;).innerText = &amp;ldquo;Xin chào&amp;rdquo;;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exception trong Java</title>
+      <link>https://baoheo-12345.github.io/posts/exception-trong-java/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/exception-trong-java/</guid>
+      <description>&lt;h2 id=&#34;exception-là-gì&#34;&gt;Exception là gì?&lt;/h2&gt;
+&lt;p&gt;Exception là lỗi xảy ra khi chương trình đang chạy.&lt;/p&gt;
+&lt;h2 id=&#34;try--catch&#34;&gt;Try – Catch&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; a &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; 10 &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; 0;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;} &lt;span style=&#34;color:#66d9ef&#34;&gt;catch&lt;/span&gt; (Exception e) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Lỗi chia cho 0&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Function và Arrow Function trong JavaScript</title>
+      <link>https://baoheo-12345.github.io/posts/function-va-arrow-function/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/function-va-arrow-function/</guid>
+      <description>&lt;h2 id=&#34;function-truyền-thống&#34;&gt;Function truyền thống&lt;/h2&gt;
+&lt;p&gt;function sum(a, b) {
+return a + b;
+}&lt;/p&gt;
+&lt;h2 id=&#34;arrow-function&#34;&gt;Arrow Function&lt;/h2&gt;
+&lt;p&gt;const sum = (a, b) =&amp;gt; a + b;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interface vs Abstract Class trong Java</title>
+      <link>https://baoheo-12345.github.io/posts/interface-vs-abstract/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/interface-vs-abstract/</guid>
+      <description>&lt;h2 id=&#34;abstract-class&#34;&gt;Abstract Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Có method thường và abstract&lt;/li&gt;
+&lt;li&gt;Chỉ kế thừa 1 class&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;interface&#34;&gt;Interface&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chỉ khai báo hành vi&lt;/li&gt;
+&lt;li&gt;Hỗ trợ đa kế thừa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;interface&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Flyable&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;fly&lt;/span&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Java là gì? Vì sao Java phổ biến</title>
+      <link>https://baoheo-12345.github.io/posts/java-la-gi/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/java-la-gi/</guid>
+      <description>&lt;h2 id=&#34;java-là-gì&#34;&gt;Java là gì?&lt;/h2&gt;
+&lt;p&gt;Java là ngôn ngữ lập trình hướng đối tượng, đa nền tảng, được phát triển bởi Sun Microsystems (nay thuộc Oracle).&lt;/p&gt;
+&lt;p&gt;Java cho phép lập trình viên &lt;strong&gt;viết một lần – chạy ở mọi nơi&lt;/strong&gt; nhờ cơ chế JVM (Java Virtual Machine).&lt;/p&gt;
+&lt;h2 id=&#34;vì-sao-java-phổ-biến&#34;&gt;Vì sao Java phổ biến?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chạy trên nhiều hệ điều hành&lt;/li&gt;
+&lt;li&gt;Bảo mật cao&lt;/li&gt;
+&lt;li&gt;Cộng đồng lớn&lt;/li&gt;
+&lt;li&gt;Dùng nhiều trong backend, Android, doanh nghiệp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ví-dụ-java-đơn-giản&#34;&gt;Ví dụ Java đơn giản&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Hello&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello Java&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript là gì? Chạy ở đâu?</title>
+      <link>https://baoheo-12345.github.io/posts/javascript-la-gi/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/javascript-la-gi/</guid>
+      <description>&lt;h2 id=&#34;javascript-là-gì&#34;&gt;JavaScript là gì?&lt;/h2&gt;
+&lt;p&gt;JavaScript là ngôn ngữ lập trình cho web.&lt;/p&gt;
+&lt;h2 id=&#34;chạy-ở-đâu&#34;&gt;Chạy ở đâu?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Trình duyệt&lt;/li&gt;
+&lt;li&gt;Server (Node.js)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello JavaScript&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Lập trình hướng đối tượng trong Java</title>
+      <link>https://baoheo-12345.github.io/posts/java-oop/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/java-oop/</guid>
+      <description>&lt;h2 id=&#34;lập-trình-hướng-đối-tượng-là-gì&#34;&gt;Lập trình hướng đối tượng là gì?&lt;/h2&gt;
+&lt;p&gt;OOP (Object-Oriented Programming) là phương pháp lập trình dựa trên &lt;strong&gt;đối tượng&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;4-đặc-tính-oop&#34;&gt;4 đặc tính OOP&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Encapsulation (Đóng gói)&lt;/li&gt;
+&lt;li&gt;Inheritance (Kế thừa)&lt;/li&gt;
+&lt;li&gt;Polymorphism (Đa hình)&lt;/li&gt;
+&lt;li&gt;Abstraction (Trừu tượng)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Animal&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sound&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Animal sound&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Profile</title>
+      <link>https://baoheo-12345.github.io/about/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;-giới-thiệu&#34;&gt;👋 Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Xin chào! Mình là sinh viên Công nghệ Thông tin, yêu thích lập trình và công nghệ.&lt;/p&gt;
+&lt;h2 id=&#34;-mục-tiêu&#34;&gt;🎯 Mục tiêu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nâng cao kỹ năng Java &amp;amp; JavaScript&lt;/li&gt;
+&lt;li&gt;Phát triển ứng dụng web&lt;/li&gt;
+&lt;li&gt;Hoàn thành tốt các đồ án học tập&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-kỹ-năng&#34;&gt;💻 Kỹ năng&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java cơ bản&lt;/li&gt;
+&lt;li&gt;JavaScript cơ bản&lt;/li&gt;
+&lt;li&gt;HTML, CSS&lt;/li&gt;
+&lt;li&gt;Git &amp;amp; GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-liên-hệ&#34;&gt;📬 Liên hệ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/baoheo-12345&#34;&gt;https://github.com/baoheo-12345&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>var – let – const trong JavaScript</title>
+      <link>https://baoheo-12345.github.io/posts/let-var-const/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://baoheo-12345.github.io/posts/let-var-const/</guid>
+      <description>&lt;h2 id=&#34;var&#34;&gt;var&lt;/h2&gt;
+&lt;p&gt;Phạm vi function&lt;/p&gt;
+&lt;h2 id=&#34;let&#34;&gt;let&lt;/h2&gt;
+&lt;p&gt;Phạm vi block&lt;/p&gt;
+&lt;h2 id=&#34;const&#34;&gt;const&lt;/h2&gt;
+&lt;p&gt;Biến không đổi&lt;/p&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;p&gt;let x = 10;
+const y = 20;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
